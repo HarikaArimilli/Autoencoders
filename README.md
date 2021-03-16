@@ -1,2 +1,2 @@
 # Autoencoders
-Autoencoder  learns how to efficiently compress and encode data then learns how to reconstruct the data back from the reduced encoded representation to a representation that is as close to the original input as possible.
+Autoencoder  learns how to efficiently compress and encode data then learns how to reconstruct the data back from the reduced encoded representation to a representation that is as close to the original input as possible.Convolutional autoencoders are best suited for the images as it uses a convolution layer. These convolutional layers are best for extracting features from the images or other 2D data without modifying their structure.
